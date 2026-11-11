@@ -177,3 +177,9 @@ gcc identity.c -o identity.exe   (MinGWなどGCC系ツールチェインの場�
 設定 > Extensions タブでスキャン対象フォルダを登録すると、その直下の
 各サブフォルダが1拡張機能として走査されます。`manifest.json` が壊れて
 いる場合は警告付きでスキップされ、他の拡張機能の発見をブロックしません。
+
+<!-- takosasi-dev line: the sign and the links follow https://github.com/takosasi-dev/takosasi-dev -->
+<p align="center">
+<a href="https://github.com/takosasi-dev"><img src="https://raw.githubusercontent.com/takosasi-dev/takosasi-dev/main/assets/stations/kanade-daw.svg" width="640" alt="たこさし線の駅名標(作者のほかの制作物へ)"></a><br>
+<a href="https://takosasi-dev.github.io/takosasi-dev/line/?from=kanade-daw&amp;go=prev">◀ 前の駅</a> ・ <a href="https://github.com/takosasi-dev">路線図</a> ・ <a href="https://takosasi-dev.github.io/takosasi-dev/line/?from=kanade-daw&amp;go=next">次の駅 ▶</a>
+</p>
